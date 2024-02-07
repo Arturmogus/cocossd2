@@ -1,0 +1,13 @@
+body {
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color:white;
+}
+.anchors {
+    border-radius: 20px;
+    background-color: white;
+    width: 50%;
+    color: black;
+}
